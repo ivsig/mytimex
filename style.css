@@ -112,7 +112,7 @@
 .content3 {
   grid-column: span 6;
   grid-row: content3;
-  background-color: rgb(96, 94, 94);
+  background-color: rgb(95, 94, 94);
 }
     
   
@@ -121,7 +121,7 @@
 .content-footer {
   grid-column: span 6;
   grid-row: content-footer;
-  background-color:rgb(66, 66, 66);
+  background-color:rgb(67, 66, 66);
 }
 
 .footer-text {
