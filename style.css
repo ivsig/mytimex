@@ -43,7 +43,7 @@
     text-align: center;
     color: white;
     font-size: 180%
-   
+  
     }
     
   .sign-up-form {
@@ -53,6 +53,18 @@
   transform: translate(-50%, -50%);
   }
 
+
+  @media only screen and (max-width: 600px) {
+    .hero-text {
+      font-size: 120%
+    }
+
+    .text-above-form {
+      font-size: 90%
+    }
+  }
+    
+    
 
   .content1-2 {
     grid-column: span 6;
